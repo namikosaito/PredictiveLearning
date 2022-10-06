@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import animation
 
-from IPython.display import HTML
+#from IPython.display import HTML
 
 from tqdm import tqdm
 import time
